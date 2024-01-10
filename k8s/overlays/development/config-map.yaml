@@ -4,7 +4,8 @@ data:
     [
       "https://i.imgflip.com/7jqevq.jpg",
       "https://i.imgflip.com/7jqekl.jpg",
-      "https://i.imgflip.com/7jmwjs.jpg"
+      "https://i.imgflip.com/7jmwjs.jpg",
+      "https://photos.classiccars.com/cc-temp/listing/176/4050/41379772-1973-ford-mustang-mach-1-thumb.jpg"
     ]
 kind: ConfigMap
 metadata:
